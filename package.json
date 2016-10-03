@@ -1,0 +1,30 @@
+{
+  "name": "api-development-project",
+  "version": "1.0.0",
+  "description": "API Development Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fybwid/API-Development-Project.git"
+  },
+  "keywords": [
+    "API",
+    "Development",
+    "Project",
+    "API",
+    "Development",
+    "Project"
+  ],
+  "author": "Yosef Benny Widyokarsono, S.Kom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fybwid/API-Development-Project/issues"
+  },
+  "homepage": "https://github.com/fybwid/API-Development-Project#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
